@@ -1,0 +1,30 @@
+h1{
+    font-size:49px;
+    background-color:#252606;
+    color:#797a5d;
+    text-align:center;
+  font-family: 'Sedgwick Ave Display', cursive;
+  }
+  img{
+    border-radius:20px;
+    padding:9px;
+  }
+  p{
+    font-size:18px;
+    font-family: 'Space Grotesk', sans-serif;
+  }
+  h2{
+    text-align:center;
+    color:lightslategray;
+    font-family: 'Space Grotesk', sans-serif;
+  }
+  h3{
+    text-align:center;
+  }
+  .beta{
+    font-family: 'Space Grotesk', sans-serif;
+  }
+  footer{
+    padding: 5px;
+    background-color:lightblue;
+  }
